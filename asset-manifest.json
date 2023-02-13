@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gifApp.github.io/static/css/main.a507f2f6.css",
+    "main.js": "/gifApp.github.io/static/js/main.127e6c8f.js",
+    "index.html": "/gifApp.github.io/index.html",
+    "main.a507f2f6.css.map": "/gifApp.github.io/static/css/main.a507f2f6.css.map",
+    "main.127e6c8f.js.map": "/gifApp.github.io/static/js/main.127e6c8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a507f2f6.css",
+    "static/js/main.127e6c8f.js"
+  ]
+}
